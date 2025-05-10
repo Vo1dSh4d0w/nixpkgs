@@ -8072,6 +8072,12 @@
     githubId = 40620903;
     name = "figsoda";
   };
+  FilipTLW = {
+    email = "filipmyslinski2006@gmail.com";
+    github = "FilipTLW";
+    githubId = 97691234;
+    name = "Filip Myslinski";
+  };
   fionera = {
     email = "nix@fionera.de";
     github = "fionera";
